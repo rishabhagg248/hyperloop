@@ -1,4 +1,3 @@
-// DO NOT SUBMIT THIS FILE TO GRADESCOPE
 
 /**
  * This interface represents the list abstract data type
