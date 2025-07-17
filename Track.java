@@ -1,22 +1,3 @@
-//////////////// FILE HEADER (INCLUDE IN EVERY FILE) //////////////////////////
-//
-// Title: Track
-// Course: CS 300 Fall 2024
-//
-// Author: Swati Banwani
-// Email: banwani@wisc.edu
-// Lecturer: Hobbes LeGault
-//
-//////////////////// PAIR PROGRAMMERS COMPLETE THIS SECTION ///////////////////
-//
-// N/A
-//
-//////////////////////// ASSISTANCE/HELP CITATIONS ////////////////////////////
-//
-// N/A
-//
-///////////////////////////////////////////////////////////////////////////////
-
 /**
  * A doubly-linked list implementation that manages Pods and maintains their order. Implements
  * ListADT interface for Pod objects.
