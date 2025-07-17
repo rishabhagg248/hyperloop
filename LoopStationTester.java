@@ -1,5 +1,3 @@
-// TODO complete file header
-
 import java.util.NoSuchElementException;
 
 /**
